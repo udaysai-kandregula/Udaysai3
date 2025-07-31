@@ -1,13 +1,24 @@
-- 👋 Hai hello my name is UDAYSAI.KANDREGULA, I am BCA student at IDEAL college of ARTS and Science
-- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm Udaysai Kandregula!
+I'm a passionate developer focused on **Java for backend development** and **Python for data science**. I love solving problems, building scalable systems, and exploring data to uncover insights.
 
-<!---
-Udaysai3/Udaysai3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 Skills
+- 💻 Languages: **Java**, **Python**, **JavaScript**, **SQL**
+- 🧰 Tools & Technologies: **Power BI**, **Tableau**, **Data Structures & Algorithms**
+- 🌐 Web Technologies: HTML, CSS, JavaScript
+- 📊 Data: Data Science, Data Visualization, Analytics
+
+## 📈 GitHub Stats
+
+![Udaysai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaysai3&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+
+- [LinkedIn → Udaysai Kandregula](https://www.linkedin.com/in/udaysaikandregula/)
+- 
+## 🚀 Currently Exploring
+
+- ☕ **Spring Boot** for REST APIs & Microservices
+- 📊 **Data Science Projects** using Python, Pandas, Power BI
+
+
+_Thanks for visiting my GitHub profile! Scroll down to explore my work 👇_
