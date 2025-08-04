@@ -9,7 +9,7 @@ I'm a passionate developer focused on **Java for backend development** and **Pyt
 
 ## 📈 GitHub Stats
 
-![Udaysai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaysai3&show_icons=true&theme=radical)
+![Udaysai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaysai-kandregula&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
