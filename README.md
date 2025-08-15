@@ -17,7 +17,6 @@ I'm a passionate developer focused on **Java for backend development** and **Pyt
 - 
 ## 🚀 Currently Exploring
 
-- ☕ **Spring Boot** for REST APIs & Microservices
 - 📊 **Data Science Projects** using Python, Pandas, Power BI
 
 
